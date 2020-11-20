@@ -1,0 +1,1 @@
+# example-dinamic-change-class
